@@ -25,7 +25,7 @@
 	- Build and run the solution
 	- Browse the Swagger URL https://localhost:44364/swagger to see the API spec and test.
 - Option 2:
-	- Check the live Swagger URL on Azure
+	- Check the live Swagger URL on Azure at https://dfoglobal.azurewebsites.net/swagger
 
 # Important Notes
 
