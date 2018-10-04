@@ -29,6 +29,6 @@
 
 # Important Notes
 
-- The model validation the middleware [ApiController] attribute
+- The model validation is handled by the ApiControllerAttribute
 - The exceptions are handled by a custom extension ConfigureExceptionHandler. We also log the exception message.
 - To keep thing simple, I don't handle others: Globalization, Log to file systems, PATCH method...
