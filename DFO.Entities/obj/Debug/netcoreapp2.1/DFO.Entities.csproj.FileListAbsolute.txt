@@ -1,0 +1,8 @@
+C:\Users\Tuan Pham\source\repos\DOF\UserAPI\DFO.Entities\bin\Debug\netcoreapp2.1\DFO.Entities.deps.json
+C:\Users\Tuan Pham\source\repos\DOF\UserAPI\DFO.Entities\bin\Debug\netcoreapp2.1\DFO.Entities.dll
+C:\Users\Tuan Pham\source\repos\DOF\UserAPI\DFO.Entities\bin\Debug\netcoreapp2.1\DFO.Entities.pdb
+C:\Users\Tuan Pham\source\repos\DOF\UserAPI\DFO.Entities\obj\Debug\netcoreapp2.1\DFO.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Tuan Pham\source\repos\DOF\UserAPI\DFO.Entities\obj\Debug\netcoreapp2.1\DFO.Entities.AssemblyInfoInputs.cache
+C:\Users\Tuan Pham\source\repos\DOF\UserAPI\DFO.Entities\obj\Debug\netcoreapp2.1\DFO.Entities.AssemblyInfo.cs
+C:\Users\Tuan Pham\source\repos\DOF\UserAPI\DFO.Entities\obj\Debug\netcoreapp2.1\DFO.Entities.dll
+C:\Users\Tuan Pham\source\repos\DOF\UserAPI\DFO.Entities\obj\Debug\netcoreapp2.1\DFO.Entities.pdb

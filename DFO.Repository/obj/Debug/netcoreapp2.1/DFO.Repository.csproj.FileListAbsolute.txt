@@ -1,0 +1,12 @@
+C:\Users\Tuan Pham\source\repos\DOF\UserAPI\DFO.Repository\obj\Debug\netcoreapp2.1\DFO.Repository.csprojAssemblyReference.cache
+C:\Users\Tuan Pham\source\repos\DOF\UserAPI\DFO.Repository\obj\Debug\netcoreapp2.1\DFO.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Tuan Pham\source\repos\DOF\UserAPI\DFO.Repository\obj\Debug\netcoreapp2.1\DFO.Repository.AssemblyInfoInputs.cache
+C:\Users\Tuan Pham\source\repos\DOF\UserAPI\DFO.Repository\obj\Debug\netcoreapp2.1\DFO.Repository.AssemblyInfo.cs
+C:\Users\Tuan Pham\source\repos\DOF\UserAPI\DFO.Repository\bin\Debug\netcoreapp2.1\DFO.Repository.deps.json
+C:\Users\Tuan Pham\source\repos\DOF\UserAPI\DFO.Repository\bin\Debug\netcoreapp2.1\DFO.Repository.dll
+C:\Users\Tuan Pham\source\repos\DOF\UserAPI\DFO.Repository\bin\Debug\netcoreapp2.1\DFO.Repository.pdb
+C:\Users\Tuan Pham\source\repos\DOF\UserAPI\DFO.Repository\bin\Debug\netcoreapp2.1\DFO.Entities.dll
+C:\Users\Tuan Pham\source\repos\DOF\UserAPI\DFO.Repository\bin\Debug\netcoreapp2.1\DFO.Entities.pdb
+C:\Users\Tuan Pham\source\repos\DOF\UserAPI\DFO.Repository\obj\Debug\netcoreapp2.1\DFO.Repository.csproj.CopyComplete
+C:\Users\Tuan Pham\source\repos\DOF\UserAPI\DFO.Repository\obj\Debug\netcoreapp2.1\DFO.Repository.dll
+C:\Users\Tuan Pham\source\repos\DOF\UserAPI\DFO.Repository\obj\Debug\netcoreapp2.1\DFO.Repository.pdb
